@@ -1,0 +1,3876 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="50mm"
+   viewBox="0 0 100 50"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="RFID_PCB.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.7039777"
+     inkscape:cx="168.19756"
+     inkscape:cy="64.120257"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Traces"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <polyline
+       points="4259.35 3062 4259.35 3056.65 4262.82 3053.18 4346.99 3053.18 4358 3064.19"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14065"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4214 3064.5 4214 3065.88 4207.38 3072.5 4187.4 3072.5 4170.9 3056 4160.5 3056"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14071"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4223.15 3220 4229.97 3213.18 4311.98 3213.18 4320.08 3221.28 4357.72 3221.28 4376.5 3202.5 4376.5 3158 4359.5 3141 4339.87 3141"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="+5V"
+       id="gge14026"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4134.5 3054 4102.5 3054 4093 3063.5 4093 3081.5 4113.5 3102 4154 3102 4161 3095"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="LED2_1"
+       id="gge13987"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4180 3121 4213.5 3087.5 4269.35 3087.5 4269.35 3072.56"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="3.3V"
+       id="gge14083"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4163.46 3187.54 4163.46 3185.04 4214.5 3134 4214.5 3129.5 4225.5 3118.5 4226 3118.5 4234 3110.5 4308 3110.5 4316.5 3119"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="SETUP"
+       id="gge14437"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4358 3064.19 4367.69 3064.19 4376 3072.5 4376 3099.5 4361.66 3113.84 4355 3121 4354.5 3129"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14062"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4202.34 3064.5 4218.05 3048.79 4363.79 3048.79 4382 3067 4382 3118 4359 3141 4339.87 3141"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="+5V"
+       id="gge14014"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4289.35 3062 4300.35 3073 4361.5 3073 4369 3080.5 4369 3090.5 4353.5 3104.5 4231 3105 4146 3190 4140.5 3190"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="SDA"
+       id="gge14044"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4140.5 3170 4148.5 3170 4225.5 3093 4285.5 3093 4297 3081.5 4351.689 3081.5 4358 3087.811"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="BUZZER"
+       id="gge14032"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4345 3204.5 4358.5 3204.5 4366 3197 4366 3187 4358.5 3179.5 4317.5 3179.5"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="SETUP"
+       id="gge14440"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4260.35 3132.33 4300.02 3172 4366.5 3172"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="BAT-"
+       id="gge13993"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4280.72 3140.71 4301.51 3161.5 4366.5 3161.5 4366.5 3162"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="BAT+"
+       id="gge13999"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4140.5 3180 4146.5 3180 4227.5 3099 4303 3099 4303 3090.5"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="SCL"
+       id="gge14284"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4140.5 3220 4149.5 3220 4162 3207.5 4162 3189 4164.5 3186.5"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="SETUP"
+       id="gge14425"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.24280952,0,0,0.24673683,-974.86235,-748.20642)" />
+    <polyline
+       points="4227.5 3129.5 4227 3130 4227 3156"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="3.3V"
+       id="gge14419"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4214.5 3200 4221.5 3200 4227 3194.5 4227 3184"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="3.3V"
+       id="gge14374"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4134.5 3094 4113.94 3094 4102 3082.06 4102 3067.5 4106.5 3063 4114.5 3063"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="RF_LED"
+       id="gge13984"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4279.354 3062 4279.5 3062.146 4279.5 3082.5"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="SCL"
+       id="gge14368"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4258 3117.5 4258 3118 4266 3126"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="R1_2"
+       id="gge14278"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4257.5 3079.5 4173.5 3079.5 4160.5 3066.5 4155.979 3066.5"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="R1_2"
+       id="gge14275"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4114.5 3183 4095 3183 4073 3205 4073 3218"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="ANT2"
+       id="gge14005"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4180 3121 4177 3124 4177 3129.5"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="3.3V"
+       id="gge14230"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4054.5 3063 4065.19 3063 4109.19 3107 4157.5 3107 4160.5 3110 4160.5 3148.65 4149.15 3160"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="RX"
+       id="gge13981"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4149.15 3150 4152.23 3146.92 4152.23 3115.45 4149.78 3113 4102.5 3113 4062.5 3073 4054.5 3073"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="TX"
+       id="gge13975"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4345 3194.5 4345.5 3195 4356.5 3195"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14158"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4339.874 3131 4341.874 3129 4354.5 3129"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14155"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4214.5 3170 4262 3170 4266 3166"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="STATUS"
+       id="gge14089"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4269.354 3062 4269.354 3072.558"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="3.3V"
+       id="gge14086"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4151.819 3083 4114.5 3083"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14080"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4161 3085 4153.819 3085 4151.819 3083"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14077"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4151.819 3083 4151.819 3062.215 4158.034 3056 4160.5 3056"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14074"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4214 3064.5 4256.854 3064.5 4259.354 3062"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14068"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4239.378 3132.331 4239.378 3140.706"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14056"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4239.378 3140.706 4253.999 3155.327 4265.735 3155.327 4273.394 3162.986 4273.394 3187.693"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14053"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4214.5 3210 4227.271 3210 4249.578 3187.693 4273.394 3187.693"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14050"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4273.394 3187.693 4338.193 3187.693 4345 3194.5"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="GND"
+       id="gge14047"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4131.8491 3220 4131.814 3219.9648 4131.814 3129.186 4140 3121"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="SETUP"
+       id="gge14041"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4136.175 3220 4131.849 3220"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="SETUP"
+       id="gge14038"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4136.175 3220 4140.5 3220"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="SETUP"
+       id="gge14035"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4197.357 3064.5 4182.17 3049.313 4150.107 3049.313 4126.42 3073 4114.5 3073"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="+5V"
+       id="gge14029"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4214.5 3220 4223.151 3220"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="+5V"
+       id="gge14023"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4204 3064.5 4202.34 3064.5"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="+5V"
+       id="gge14020"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4202.34 3064.5 4197.357 3064.5"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="+5V"
+       id="gge14017"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4114.5 3193 4101.249 3193 4083 3211.249"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="ANT1"
+       id="gge14011"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4083 3218 4083 3211.249"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="ANT1"
+       id="gge14008"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4340 3121 4328.669 3132.331 4293.634 3132.331"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="OUT+"
+       id="gge14002"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4280.716 3132.331 4280.716 3140.706"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="BAT+"
+       id="gge13996"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4251.973 3132.331 4260.348 3132.331"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="BAT-"
+       id="gge13990"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4140.5 3160 4149.151 3160"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="RX"
+       id="gge13978"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <polyline
+       points="4140.5 3150 4149.151 3150"
+       stroke-width="1"
+       stroke-linecap="round"
+       fill="none"
+       layerid="2"
+       net="TX"
+       id="gge13972"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)" />
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4140.5,3220"
+       layerid="2"
+       number="1"
+       net="SETUP"
+       plated="Y"
+       id="gge441"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="SETUP"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4145.5,3217 4135.5,3217 4135.5,3223 4145.5,3223 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon1"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4140.5"
+         cy="3220"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle1"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4140.5,3210"
+       layerid="2"
+       number="2"
+       net="U1_2"
+       plated="Y"
+       id="gge456"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="U1_2"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4145.5,3207 4135.5,3207 4135.5,3213 4145.5,3213 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon2"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4140.5"
+         cy="3210"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle2"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4140.5,3200"
+       layerid="2"
+       number="3"
+       net="U1_3"
+       plated="Y"
+       id="gge471"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="U1_3"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4145.5,3197 4135.5,3197 4135.5,3203 4145.5,3203 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon3"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4140.5"
+         cy="3200"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle3"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4140.5,3190"
+       layerid="2"
+       number="4"
+       net="SDA"
+       plated="Y"
+       id="gge486"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="SDA"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4145.5,3187 4135.5,3187 4135.5,3193 4145.5,3193 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon4"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4140.5"
+         cy="3190"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle4"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4140.5,3150"
+       layerid="2"
+       number="8"
+       net="TX"
+       plated="Y"
+       id="gge501"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="TX"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4145.5,3147 4135.5,3147 4135.5,3153 4145.5,3153 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon5"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4140.5"
+         cy="3150"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle5"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4140.5,3160"
+       layerid="2"
+       number="7"
+       net="RX"
+       plated="Y"
+       id="gge516"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="RX"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4145.5,3157 4135.5,3157 4135.5,3163 4145.5,3163 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon6"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4140.5"
+         cy="3160"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle6"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4140.5,3170"
+       layerid="2"
+       number="6"
+       net="BUZZER"
+       plated="Y"
+       id="gge531"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="BUZZER"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4145.5,3167 4135.5,3167 4135.5,3173 4145.5,3173 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon7"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4140.5"
+         cy="3170"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle7"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4140.5,3180"
+       layerid="2"
+       number="5"
+       net="SCL"
+       plated="Y"
+       id="gge546"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="SCL"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4145.5,3177 4135.5,3177 4135.5,3183 4145.5,3183 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon8"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4140.5"
+         cy="3180"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle8"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4214.5,3150"
+       layerid="2"
+       number="9"
+       net="U1_9"
+       plated="Y"
+       id="gge561"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="U1_9"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4219.5,3147 4209.5,3147 4209.5,3153 4219.5,3153 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon9"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4214.5"
+         cy="3150"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle9"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4214.5,3160"
+       layerid="2"
+       number="10"
+       net="U1_10"
+       plated="Y"
+       id="gge576"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="U1_10"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4219.5,3157 4209.5,3157 4209.5,3163 4219.5,3163 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon10"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4214.5"
+         cy="3160"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle10"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4214.5,3170"
+       layerid="2"
+       number="11"
+       net="STATUS"
+       plated="Y"
+       id="gge591"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="STATUS"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4219.5,3167 4209.5,3167 4209.5,3173 4219.5,3173 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon11"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4214.5"
+         cy="3170"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle11"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4214.5,3180"
+       layerid="2"
+       number="12"
+       net="U1_12"
+       plated="Y"
+       id="gge606"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="U1_12"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4219.5,3177 4209.5,3177 4209.5,3183 4219.5,3183 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon12"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4214.5"
+         cy="3180"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle12"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4214.5,3190"
+       layerid="2"
+       number="13"
+       net="U1_13"
+       plated="Y"
+       id="gge621"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="U1_13"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4219.5,3187 4209.5,3187 4209.5,3193 4219.5,3193 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon13"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4214.5"
+         cy="3190"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle13"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4214.5,3200"
+       layerid="2"
+       number="14"
+       net="3.3V"
+       plated="Y"
+       id="gge636"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="3.3V"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4219.5,3197 4209.5,3197 4209.5,3203 4219.5,3203 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon14"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4214.5"
+         cy="3200"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle14"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4214.5,3210"
+       layerid="2"
+       number="15"
+       net="GND"
+       plated="Y"
+       id="gge651"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="GND"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4219.5,3207 4209.5,3207 4209.5,3213 4219.5,3213 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon15"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4214.5"
+         cy="3210"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle15"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4214.5,3220"
+       layerid="2"
+       number="16"
+       net="+5V"
+       plated="Y"
+       id="gge666"
+       locked="0"
+       c_rotation="180"
+       c_width="10"
+       c_height="6"
+       title="+5V"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:#000000;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1919,-771.59846)">
+      <polygon
+         c_etype="pad_shell"
+         points="4219.5,3217 4209.5,3217 4209.5,3223 4219.5,3223 "
+         layerid="2"
+         stroke-width="0"
+         id="polygon16"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+      <circle
+         c_etype="pad_hole"
+         cx="4214.5"
+         cy="3220"
+         r="0"
+         layerid="2"
+         stroke-width="0"
+         id="circle16"
+         style="fill:#000000;stroke:#000000;shape-rendering:crispEdges" />
+    </g>
+    <polyline
+       points="4045.5 3044 4048.5 3044 4390 3044 4390 3227.6 4044.94 3227.6 4044.94 3046.5 4045 3044"
+       stroke-width="1.0039"
+       stroke-linecap="round"
+       fill="none"
+       layerid="10"
+       net=""
+       id="gge1239"
+       locked="0"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+       transform="matrix(0.25399801,0,0,0.25537181,-1021.1835,-775.77391)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Holes">
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4354.5,3129"
+       layerid="11"
+       number="4"
+       net="GND"
+       plated="Y"
+       id="gge14122"
+       locked="0"
+       c_rotation="0"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="GND"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline1"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4354.5,3127.2283 v 3.5433"
+           id="path305" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4354.5,3124.0781 a 3.1496,3.1496 0 0 0 -3.1504,3.1504 v 3.543 a 3.1496,3.1496 0 0 0 3.1504,3.1504 3.1496,3.1496 0 0 0 3.1504,-3.1504 v -3.543 a 3.1496,3.1496 0 0 0 -3.1504,-3.1504 z"
+           id="path306" />
+      </g>
+      <g
+         id="circle1-2"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4356.4685,3129 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z"
+           id="path307" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4356.4685,3129 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path308" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4356.5,3195"
+       layerid="11"
+       number="4"
+       net="GND"
+       plated="Y"
+       id="gge14146"
+       locked="0"
+       c_rotation="0"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="GND"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline2"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4356.5,3193.2283 v 3.5433"
+           id="path301" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4356.5,3190.0781 a 3.1496,3.1496 0 0 0 -3.1504,3.1504 v 3.543 a 3.1496,3.1496 0 0 0 3.1504,3.1504 3.1496,3.1496 0 0 0 3.1504,-3.1504 v -3.543 a 3.1496,3.1496 0 0 0 -3.1504,-3.1504 z"
+           id="path302" />
+      </g>
+      <g
+         id="circle2-3"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4358.4685,3195 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z"
+           id="path303" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4358.4685,3195 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path304" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4227.5,3129.5"
+       layerid="11"
+       number="4"
+       net="3.3V"
+       plated="Y"
+       id="gge14179"
+       locked="0"
+       c_rotation="0"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="3.3V"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline3"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4227.5,3127.7283 v 3.5433"
+           id="path297" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4227.5,3124.5781 a 3.1496,3.1496 0 0 0 -3.1504,3.1504 v 3.543 a 3.1496,3.1496 0 0 0 3.1504,3.1504 3.1496,3.1496 0 0 0 3.1504,-3.1504 v -3.543 a 3.1496,3.1496 0 0 0 -3.1504,-3.1504 z"
+           id="path298" />
+      </g>
+      <g
+         id="circle3-3"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4229.4685,3129.5 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z"
+           id="path299" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4229.4685,3129.5 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path300" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4177,3129.5"
+       layerid="11"
+       number="4"
+       net="3.3V"
+       plated="Y"
+       id="gge14206"
+       locked="0"
+       c_rotation="90"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="3.3V"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline4"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4175.2283,3129.5 h 3.5433"
+           id="path293" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4175.2285,3126.3496 a 3.1496,3.1496 0 0 0 -3.1504,3.1504 3.1496,3.1496 0 0 0 3.1504,3.1504 h 3.543 a 3.1496,3.1496 0 0 0 3.1504,-3.1504 3.1496,3.1496 0 0 0 -3.1504,-3.1504 z"
+           id="path294" />
+      </g>
+      <g
+         id="circle4-7"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4178.9685,3129.5 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z"
+           id="path295" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4178.9685,3129.5 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path296" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4258,3117.5"
+       layerid="11"
+       number="1"
+       net="R1_2"
+       plated="Y"
+       id="gge14248"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="R1_2"
+       c_shape="OVAL"
+       pasteexpansion="0.0000"
+       solderexpansion="0.2000"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline5"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4256.0315,3117.5 h 3.937"
+           id="path289" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4256.0312,3114.5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path290" />
+      </g>
+      <g
+         id="circle5-6"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4259.8,3117.5 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path291" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4259.8,3117.5 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path292" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4257.5,3079.5"
+       layerid="11"
+       number="1"
+       net="R1_2"
+       plated="Y"
+       id="gge14269"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="R1_2"
+       c_shape="OVAL"
+       pasteexpansion="0.0000"
+       solderexpansion="0.2000"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline6"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4255.5315,3079.5 h 3.937"
+           id="path285" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4255.5312,3076.5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path286" />
+      </g>
+      <g
+         id="circle6-4"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4259.3,3079.5 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path287" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4259.3,3079.5 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path288" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4279.5,3082.5"
+       layerid="11"
+       number="5"
+       net="SCL"
+       plated="Y"
+       id="gge14317"
+       locked="0"
+       c_rotation="90"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="SCL"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline7"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4277.7283,3082.5 h 3.5433"
+           id="path281" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4277.7285,3079.3496 a 3.1496,3.1496 0 0 0 -3.1504,3.1504 3.1496,3.1496 0 0 0 3.1504,3.1504 h 3.543 a 3.1496,3.1496 0 0 0 3.1504,-3.1504 3.1496,3.1496 0 0 0 -3.1504,-3.1504 z"
+           id="path282" />
+      </g>
+      <g
+         id="circle7-0"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4281.4685,3082.5 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z"
+           id="path283" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4281.4685,3082.5 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path284" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4303,3090.5"
+       layerid="11"
+       number="5"
+       net="SCL"
+       plated="Y"
+       id="gge14338"
+       locked="0"
+       c_rotation="90"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="SCL"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline8"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4301.2283,3090.5 h 3.5433"
+           id="path277" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4301.2285,3087.3496 a 3.1496,3.1496 0 0 0 -3.1504,3.1504 3.1496,3.1496 0 0 0 3.1504,3.1504 h 3.543 a 3.1496,3.1496 0 0 0 3.1504,-3.1504 3.1496,3.1496 0 0 0 -3.1504,-3.1504 z"
+           id="path278" />
+      </g>
+      <g
+         id="circle8-6"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4304.9685,3090.5 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z"
+           id="path279" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4304.9685,3090.5 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path280" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4227,3184"
+       layerid="11"
+       number="4"
+       net="3.3V"
+       plated="Y"
+       id="gge14395"
+       locked="0"
+       c_rotation="0"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="3.3V"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline9"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4227,3182.2283 v 3.5433"
+           id="path273" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4227,3179.0781 a 3.1496,3.1496 0 0 0 -3.1504,3.1504 v 3.543 a 3.1496,3.1496 0 0 0 3.1504,3.1504 3.1496,3.1496 0 0 0 3.1504,-3.1504 v -3.543 A 3.1496,3.1496 0 0 0 4227,3179.0781 Z"
+           id="path274" />
+      </g>
+      <g
+         id="circle9-7"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="M 4228.9685,3184 A 1.9685,1.9685 0 0 1 4227,3185.9685 1.9685,1.9685 0 0 1 4225.0315,3184 1.9685,1.9685 0 0 1 4227,3182.0315 1.9685,1.9685 0 0 1 4228.9685,3184 Z"
+           id="path275" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4228.9685,3184 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path276" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4227,3156"
+       layerid="11"
+       number="4"
+       net="3.3V"
+       plated="Y"
+       id="gge14413"
+       locked="0"
+       c_rotation="0"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="3.3V"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline10"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4227,3154.2283 v 3.5433"
+           id="path269" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4227,3151.0781 a 3.1496,3.1496 0 0 0 -3.1504,3.1504 v 3.543 a 3.1496,3.1496 0 0 0 3.1504,3.1504 3.1496,3.1496 0 0 0 3.1504,-3.1504 v -3.543 A 3.1496,3.1496 0 0 0 4227,3151.0781 Z"
+           id="path270" />
+      </g>
+      <g
+         id="circle10-1"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="M 4228.9685,3156 A 1.9685,1.9685 0 0 1 4227,3157.9685 1.9685,1.9685 0 0 1 4225.0315,3156 1.9685,1.9685 0 0 1 4227,3154.0315 1.9685,1.9685 0 0 1 4228.9685,3156 Z"
+           id="path271" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4228.9685,3156 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path272" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4316.5,3119"
+       layerid="11"
+       number="5"
+       net="SETUP"
+       plated="Y"
+       id="gge14458"
+       locked="0"
+       c_rotation="90"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="SETUP"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline11"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4314.7283,3119 h 3.5433"
+           id="path265" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4314.7285,3115.8496 a 3.1496,3.1496 0 0 0 -3.1504,3.1504 3.1496,3.1496 0 0 0 3.1504,3.1504 h 3.543 a 3.1496,3.1496 0 0 0 3.1504,-3.1504 3.1496,3.1496 0 0 0 -3.1504,-3.1504 z"
+           id="path266" />
+      </g>
+      <g
+         id="circle11-8"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4318.4685,3119 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z"
+           id="path267" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4318.4685,3119 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path268" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4317.5,3179.5"
+       layerid="11"
+       number="5"
+       net="SETUP"
+       plated="Y"
+       id="gge14476"
+       locked="0"
+       c_rotation="90"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="SETUP"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline12"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4315.7283,3179.5 h 3.5433"
+           id="path261" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4315.7285,3176.3496 a 3.1496,3.1496 0 0 0 -3.1504,3.1504 3.1496,3.1496 0 0 0 3.1504,3.1504 h 3.543 a 3.1496,3.1496 0 0 0 3.1504,-3.1504 3.1496,3.1496 0 0 0 -3.1504,-3.1504 z"
+           id="path262" />
+      </g>
+      <g
+         id="circle12-4"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4319.4685,3179.5 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z"
+           id="path263" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4319.4685,3179.5 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path264" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4269.354,3062"
+       layerid="11"
+       number="4"
+       net="3.3V"
+       plated="Y"
+       id="gge1913"
+       locked="0"
+       c_rotation="0"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="3.3V"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline13"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4269.354,3060.2283 v 3.5433"
+           id="path257" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4269.3535,3057.0781 a 3.1496,3.1496 0 0 0 -3.1484,3.1504 v 3.543 a 3.1496,3.1496 0 0 0 3.1484,3.1504 3.1496,3.1496 0 0 0 3.1504,-3.1504 v -3.543 a 3.1496,3.1496 0 0 0 -3.1504,-3.1504 z"
+           id="path258" />
+      </g>
+      <g
+         id="circle13-1"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4271.3225,3062 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z"
+           id="path259" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4271.3225,3062 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path260" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4259.354,3062"
+       layerid="11"
+       number="3"
+       net="GND"
+       plated="Y"
+       id="gge1928"
+       locked="0"
+       c_rotation="0"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="GND"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline14"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4259.354,3060.2283 v 3.5433"
+           id="path253" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4259.3535,3057.0781 a 3.1496,3.1496 0 0 0 -3.1484,3.1504 v 3.543 a 3.1496,3.1496 0 0 0 3.1484,3.1504 3.1496,3.1496 0 0 0 3.1504,-3.1504 v -3.543 a 3.1496,3.1496 0 0 0 -3.1504,-3.1504 z"
+           id="path254" />
+      </g>
+      <g
+         id="circle14-5"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4261.3225,3062 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z"
+           id="path255" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4261.3225,3062 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path256" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4279.354,3062"
+       layerid="11"
+       number="5"
+       net="SCL"
+       plated="Y"
+       id="gge1943"
+       locked="0"
+       c_rotation="0"
+       c_width="6.2992"
+       c_height="9.8425"
+       title="SCL"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline15"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4279.354,3060.2283 v 3.5433"
+           id="path249" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4279.3535,3057.0781 a 3.1496,3.1496 0 0 0 -3.1484,3.1504 v 3.543 a 3.1496,3.1496 0 0 0 3.1484,3.1504 3.1496,3.1496 0 0 0 3.1504,-3.1504 v -3.543 a 3.1496,3.1496 0 0 0 -3.1504,-3.1504 z"
+           id="path250" />
+      </g>
+      <g
+         id="circle15-4"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4281.3225,3062 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z"
+           id="path251" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4281.3225,3062 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path252" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4289.354,3062"
+       layerid="11"
+       number="6"
+       net="SDA"
+       plated="Y"
+       id="gge1958"
+       locked="0"
+       c_rotation="0"
+       c_width="6.2992"
+       c_height="10.2362"
+       title="SDA"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.19685"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline16"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4289.354,3060.0315 v 3.937"
+           id="path245" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4289.3535,3056.8828 a 3.1496,3.1496 0 0 0 -3.1484,3.1485 v 3.9375 a 3.1496,3.1496 0 0 0 3.1484,3.1484 3.1496,3.1496 0 0 0 3.1504,-3.1484 v -3.9375 a 3.1496,3.1496 0 0 0 -3.1504,-3.1485 z"
+           id="path246" />
+      </g>
+      <g
+         id="circle16-4"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4291.3225,3062 a 1.9685,1.9685 0 0 1 -1.9685,1.9685 1.9685,1.9685 0 0 1 -1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,-1.9685 1.9685,1.9685 0 0 1 1.9685,1.9685 z"
+           id="path247" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4291.3225,3062 c 0,1.0872 -0.8813,1.9685 -1.9685,1.9685 -1.0872,0 -1.9685,-0.8813 -1.9685,-1.9685 0,-1.0872 0.8813,-1.9685 1.9685,-1.9685 1.0872,0 1.9685,0.8813 1.9685,1.9685 z"
+           id="path248" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4160.5,3066"
+       layerid="11"
+       number="1"
+       net="R1_2"
+       plated="Y"
+       id="gge219"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="R1_2"
+       c_shape="OVAL"
+       pasteexpansion="0.0000"
+       solderexpansion="0.2000"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline17"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4158.5315,3066 h 3.937"
+           id="path241" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4158.5312,3063 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path242" />
+      </g>
+      <g
+         id="circle17"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4162.3,3066 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path243" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4162.3,3066 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path244" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4160.5,3056"
+       layerid="11"
+       number="2"
+       net="GND"
+       plated="Y"
+       id="gge234"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="GND"
+       c_shape="OVAL"
+       pasteexpansion="0.0000"
+       solderexpansion="0.2000"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline18"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4158.5315,3056 h 3.937"
+           id="path237" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4158.5312,3053 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path238" />
+      </g>
+      <g
+         id="circle18"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4162.3,3056 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path239" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4162.3,3056 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path240" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4345,3214.5"
+       layerid="11"
+       number="1"
+       net="SW1_1"
+       plated="Y"
+       id="gge1095"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.8425"
+       title="SW1_1"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.1969"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline19"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4343.0788,3214.5 h 3.8424"
+           id="path233" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4343.0781,3211.5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.8438 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path234" />
+      </g>
+      <g
+         id="polyline20"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4346.2795,3214.4999 h -2.5591"
+           id="path235" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4343.7207,3213.7129 a 0.78740001,0.78740001 0 0 0 -0.7871,0.7871 0.78740001,0.78740001 0 0 0 0.7871,0.7871 h 2.5586 a 0.78740001,0.78740001 0 0 0 0.7871,-0.7871 0.78740001,0.78740001 0 0 0 -0.7871,-0.7871 z"
+           id="path236" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4345,3204.5"
+       layerid="11"
+       number="2"
+       net="SETUP"
+       plated="Y"
+       id="gge1110"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.8425"
+       title="SETUP"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.1969"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline21"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4343.0788,3204.5 h 3.8424"
+           id="path229" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4343.0781,3201.5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.8438 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path230" />
+      </g>
+      <g
+         id="polyline22"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4346.1811,3204.5 h -2.3622"
+           id="path231" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4343.8184,3203.7129 a 0.78740001,0.78740001 0 0 0 -0.7872,0.7871 0.78740001,0.78740001 0 0 0 0.7872,0.7871 h 2.3632 a 0.78740001,0.78740001 0 0 0 0.7871,-0.7871 0.78740001,0.78740001 0 0 0 -0.7871,-0.7871 z"
+           id="path232" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4345,3194.5"
+       layerid="11"
+       number="3"
+       net="GND"
+       plated="Y"
+       id="gge1125"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="6"
+       title="GND"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.1969"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline23"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4345,3194.5 v 0"
+           id="path225" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4345,3191.5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path226" />
+      </g>
+      <g
+         id="polyline24"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4345,3195.6811 v -2.3622"
+           id="path227" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4345,3192.5313 a 0.78740001,0.78740001 0 0 0 -0.7871,0.7871 v 2.3632 a 0.78740001,0.78740001 0 0 0 0.7871,0.7872 0.78740001,0.78740001 0 0 0 0.7871,-0.7872 v -2.3632 A 0.78740001,0.78740001 0 0 0 4345,3192.5313 Z"
+           id="path228" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4325,3194.5"
+       layerid="11"
+       number="4"
+       net=""
+       plated="Y"
+       id="gge1140"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.8425"
+       title=""
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.1969"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline25"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4323.0788,3194.5 h 3.8424"
+           id="path221" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4323.0781,3191.5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.8438 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path222" />
+      </g>
+      <g
+         id="polyline26"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4326.1811,3194.5 h -2.3622"
+           id="path223" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4323.8184,3193.7129 a 0.78740001,0.78740001 0 0 0 -0.7872,0.7871 0.78740001,0.78740001 0 0 0 0.7872,0.7871 h 2.3632 a 0.78740001,0.78740001 0 0 0 0.7871,-0.7871 0.78740001,0.78740001 0 0 0 -0.7871,-0.7871 z"
+           id="path224" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4325,3204.5"
+       layerid="11"
+       number="5"
+       net=""
+       plated="Y"
+       id="gge1155"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.8425"
+       title=""
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.1969"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline27"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4323.0788,3204.5 h 3.8424"
+           id="path217" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4323.0781,3201.5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.8438 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path218" />
+      </g>
+      <g
+         id="polyline28"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4326.1811,3204.5 h -2.3622"
+           id="path219" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4323.8184,3203.7129 a 0.78740001,0.78740001 0 0 0 -0.7872,0.7871 0.78740001,0.78740001 0 0 0 0.7872,0.7871 h 2.3632 a 0.78740001,0.78740001 0 0 0 0.7871,-0.7871 0.78740001,0.78740001 0 0 0 -0.7871,-0.7871 z"
+           id="path220" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4325,3214.5"
+       layerid="11"
+       number="6"
+       net=""
+       plated="Y"
+       id="gge1170"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.8425"
+       title=""
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.1969"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline29"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4323.0788,3214.5 h 3.8424"
+           id="path213" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4323.0781,3211.5 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.8438 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path214" />
+      </g>
+      <g
+         id="polyline30"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4326.2795,3214.4999 h -2.5591"
+           id="path215" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4323.7207,3213.7129 a 0.78740001,0.78740001 0 0 0 -0.7871,0.7871 0.78740001,0.78740001 0 0 0 0.7871,0.7871 h 2.5586 a 0.78740001,0.78740001 0 0 0 0.7871,-0.7871 0.78740001,0.78740001 0 0 0 -0.7871,-0.7871 z"
+           id="path216" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4358,3087.811"
+       layerid="11"
+       number="1"
+       net="BUZZER"
+       plated="Y"
+       id="gge60"
+       locked="0"
+       c_rotation="90"
+       c_width="9.8425"
+       c_height="9.8425"
+       title="BUZZER"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.1969"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse30"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4362.9212,3087.811 a 4.9212499,4.9212499 0 0 1 -4.9212,4.9213 4.9212499,4.9212499 0 0 1 -4.9212,-4.9213 4.9212499,4.9212499 0 0 1 4.9212,-4.9212 4.9212499,4.9212499 0 0 1 4.9212,4.9212 z"
+           id="path209" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4362.9212,3087.811 c 0,2.7179 -2.2033,4.9213 -4.9212,4.9213 -2.7179,0 -4.9212,-2.2034 -4.9212,-4.9213 0,-2.7179 2.2033,-4.9212 4.9212,-4.9212 2.7179,0 4.9212,2.2033 4.9212,4.9212 z"
+           id="path210" />
+      </g>
+      <g
+         id="circle30"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4360.9528,3087.811 a 2.9528,2.9528 0 0 1 -2.9528,2.9528 2.9528,2.9528 0 0 1 -2.9528,-2.9528 2.9528,2.9528 0 0 1 2.9528,-2.9528 2.9528,2.9528 0 0 1 2.9528,2.9528 z"
+           id="path211" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4360.9528,3087.811 c 0,1.6308 -1.322,2.9528 -2.9528,2.9528 -1.6308,0 -2.9528,-1.322 -2.9528,-2.9528 0,-1.6308 1.322,-2.9528 2.9528,-2.9528 1.6308,0 2.9528,1.322 2.9528,2.9528 z"
+           id="path212" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4358,3064.189"
+       layerid="11"
+       number="2"
+       net="GND"
+       plated="Y"
+       id="gge75"
+       locked="0"
+       c_rotation="90"
+       c_width="9.8425"
+       c_height="9.8425"
+       title="GND"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.1969"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse31"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4362.9212,3064.189 a 4.9212499,4.9212499 0 0 1 -4.9212,4.9212 4.9212499,4.9212499 0 0 1 -4.9212,-4.9212 4.9212499,4.9212499 0 0 1 4.9212,-4.9213 4.9212499,4.9212499 0 0 1 4.9212,4.9213 z"
+           id="path205" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4362.9212,3064.189 c 0,2.7179 -2.2033,4.9212 -4.9212,4.9212 -2.7179,0 -4.9212,-2.2033 -4.9212,-4.9212 0,-2.7179 2.2033,-4.9213 4.9212,-4.9213 2.7179,0 4.9212,2.2034 4.9212,4.9213 z"
+           id="path206" />
+      </g>
+      <g
+         id="circle31"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4360.9528,3064.189 a 2.9528,2.9528 0 0 1 -2.9528,2.9528 2.9528,2.9528 0 0 1 -2.9528,-2.9528 2.9528,2.9528 0 0 1 2.9528,-2.9528 2.9528,2.9528 0 0 1 2.9528,2.9528 z"
+           id="path207" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4360.9528,3064.189 c 0,1.6308 -1.322,2.9528 -2.9528,2.9528 -1.6308,0 -2.9528,-1.322 -2.9528,-2.9528 0,-1.6308 1.322,-2.9528 2.9528,-2.9528 1.6308,0 2.9528,1.322 2.9528,2.9528 z"
+           id="path208" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4266,3166"
+       layerid="11"
+       number="1"
+       net="STATUS"
+       plated="Y"
+       id="gge303"
+       locked="0"
+       c_rotation="90"
+       c_width="7.4"
+       c_height="7.4"
+       title="STATUS"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse32"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4269.7,3166 a 3.7,3.7 0 0 1 -3.7,3.7 3.7,3.7 0 0 1 -3.7,-3.7 3.7,3.7 0 0 1 3.7,-3.7 3.7,3.7 0 0 1 3.7,3.7 z"
+           id="path201" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4269.7,3166 c 0,2.0435 -1.6565,3.7 -3.7,3.7 -2.0435,0 -3.7,-1.6565 -3.7,-3.7 0,-2.0435 1.6565,-3.7 3.7,-3.7 2.0435,0 3.7,1.6565 3.7,3.7 z"
+           id="path202" />
+      </g>
+      <g
+         id="circle32"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4267.77,3166 a 1.77,1.77 0 0 1 -1.77,1.77 1.77,1.77 0 0 1 -1.77,-1.77 1.77,1.77 0 0 1 1.77,-1.77 1.77,1.77 0 0 1 1.77,1.77 z"
+           id="path203" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4267.77,3166 c 0,0.9775 -0.7925,1.77 -1.77,1.77 -0.9775,0 -1.77,-0.7925 -1.77,-1.77 0,-0.9775 0.7925,-1.77 1.77,-1.77 0.9775,0 1.77,0.7925 1.77,1.77 z"
+           id="path204" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4266,3126"
+       layerid="11"
+       number="2"
+       net="R1_2"
+       plated="Y"
+       id="gge318"
+       locked="0"
+       c_rotation="90"
+       c_width="7.4"
+       c_height="7.4"
+       title="R1_2"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse33"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4269.7,3126 a 3.7,3.7 0 0 1 -3.7,3.7 3.7,3.7 0 0 1 -3.7,-3.7 3.7,3.7 0 0 1 3.7,-3.7 3.7,3.7 0 0 1 3.7,3.7 z"
+           id="path197" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4269.7,3126 c 0,2.0435 -1.6565,3.7 -3.7,3.7 -2.0435,0 -3.7,-1.6565 -3.7,-3.7 0,-2.0435 1.6565,-3.7 3.7,-3.7 2.0435,0 3.7,1.6565 3.7,3.7 z"
+           id="path198" />
+      </g>
+      <g
+         id="circle33"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4267.77,3126 a 1.77,1.77 0 0 1 -1.77,1.77 1.77,1.77 0 0 1 -1.77,-1.77 1.77,1.77 0 0 1 1.77,-1.77 1.77,1.77 0 0 1 1.77,1.77 z"
+           id="path199" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4267.77,3126 c 0,0.9775 -0.7925,1.77 -1.77,1.77 -0.9775,0 -1.77,-0.7925 -1.77,-1.77 0,-0.9775 0.7925,-1.77 1.77,-1.77 0.9775,0 1.77,0.7925 1.77,1.77 z"
+           id="path200" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4180,3121"
+       layerid="11"
+       number="1"
+       net="3.3V"
+       plated="Y"
+       id="gge387"
+       locked="0"
+       c_rotation="180"
+       c_width="7.4"
+       c_height="7.4"
+       title="3.3V"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse34"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4183.7,3121 a 3.7,3.7 0 0 1 -3.7,3.7 3.7,3.7 0 0 1 -3.7,-3.7 3.7,3.7 0 0 1 3.7,-3.7 3.7,3.7 0 0 1 3.7,3.7 z"
+           id="path193" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4183.7,3121 c 0,2.0435 -1.6565,3.7 -3.7,3.7 -2.0435,0 -3.7,-1.6565 -3.7,-3.7 0,-2.0435 1.6565,-3.7 3.7,-3.7 2.0435,0 3.7,1.6565 3.7,3.7 z"
+           id="path194" />
+      </g>
+      <g
+         id="circle34"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4181.77,3121 a 1.77,1.77 0 0 1 -1.77,1.77 1.77,1.77 0 0 1 -1.77,-1.77 1.77,1.77 0 0 1 1.77,-1.77 1.77,1.77 0 0 1 1.77,1.77 z"
+           id="path195" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4181.77,3121 c 0,0.9775 -0.7925,1.77 -1.77,1.77 -0.9775,0 -1.77,-0.7925 -1.77,-1.77 0,-0.9775 0.7925,-1.77 1.77,-1.77 0.9775,0 1.77,0.7925 1.77,1.77 z"
+           id="path196" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4140,3121"
+       layerid="11"
+       number="2"
+       net="SETUP"
+       plated="Y"
+       id="gge402"
+       locked="0"
+       c_rotation="180"
+       c_width="7.4"
+       c_height="7.4"
+       title="SETUP"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse35"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4143.7,3121 a 3.7,3.7 0 0 1 -3.7,3.7 3.7,3.7 0 0 1 -3.7,-3.7 3.7,3.7 0 0 1 3.7,-3.7 3.7,3.7 0 0 1 3.7,3.7 z"
+           id="path189" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4143.7,3121 c 0,2.0435 -1.6565,3.7 -3.7,3.7 -2.0435,0 -3.7,-1.6565 -3.7,-3.7 0,-2.0435 1.6565,-3.7 3.7,-3.7 2.0435,0 3.7,1.6565 3.7,3.7 z"
+           id="path190" />
+      </g>
+      <g
+         id="circle35"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4141.77,3121 a 1.77,1.77 0 0 1 -1.77,1.77 1.77,1.77 0 0 1 -1.77,-1.77 1.77,1.77 0 0 1 1.77,-1.77 1.77,1.77 0 0 1 1.77,1.77 z"
+           id="path191" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4141.77,3121 c 0,0.9775 -0.7925,1.77 -1.77,1.77 -0.9775,0 -1.77,-0.7925 -1.77,-1.77 0,-0.9775 0.7925,-1.77 1.77,-1.77 0.9775,0 1.77,0.7925 1.77,1.77 z"
+           id="path192" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4204,3064.5"
+       layerid="11"
+       number="1"
+       net="+5V"
+       plated="Y"
+       id="gge2308"
+       locked="0"
+       c_rotation="0"
+       c_width="5.9842"
+       c_height="5.9842"
+       title="+5V"
+       c_shape="POLYGON"
+       pasteexpansion="0"
+       solderexpansion="0.2008"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polygon35"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4201.0079,3061.5079 h 5.9842 v 5.9842 h -5.9842 z"
+           id="path185" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4201.0079,3061.5079 h 5.9842 v 5.9842 h -5.9842 z"
+           id="path186" />
+      </g>
+      <g
+         id="circle36"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4205.5748,3064.5 a 1.5748,1.5748 0 0 1 -1.5748,1.5748 1.5748,1.5748 0 0 1 -1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,1.5748 z"
+           id="path187" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4205.5748,3064.5 c 0,0.8697 -0.7051,1.5748 -1.5748,1.5748 -0.8697,0 -1.5748,-0.7051 -1.5748,-1.5748 0,-0.8697 0.7051,-1.5748 1.5748,-1.5748 0.8697,0 1.5748,0.7051 1.5748,1.5748 z"
+           id="path188" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4214,3064.5"
+       layerid="11"
+       number="2"
+       net="GND"
+       plated="Y"
+       id="gge2323"
+       locked="0"
+       c_rotation="0"
+       c_width="5.9842"
+       c_height="9.8425"
+       title="GND"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.2008"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline36"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4214,3062.5709 v 3.8583"
+           id="path181" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4214,3059.5781 a 2.9921,2.9921 0 0 0 -2.9922,2.9922 v 3.8594 a 2.9921,2.9921 0 0 0 2.9922,2.9922 2.9921,2.9921 0 0 0 2.9922,-2.9922 v -3.8594 A 2.9921,2.9921 0 0 0 4214,3059.5781 Z"
+           id="path182" />
+      </g>
+      <g
+         id="circle37"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4215.5748,3064.5 a 1.5748,1.5748 0 0 1 -1.5748,1.5748 1.5748,1.5748 0 0 1 -1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,1.5748 z"
+           id="path183" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4215.5748,3064.5 c 0,0.8697 -0.7051,1.5748 -1.5748,1.5748 -0.8697,0 -1.5748,-0.7051 -1.5748,-1.5748 0,-0.8697 0.7051,-1.5748 1.5748,-1.5748 0.8697,0 1.5748,0.7051 1.5748,1.5748 z"
+           id="path184" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4083,3218"
+       layerid="11"
+       number="1"
+       net="ANT1"
+       plated="Y"
+       id="gge2380"
+       locked="0"
+       c_rotation="180"
+       c_width="6.6929"
+       c_height="6.2"
+       title="ANT1"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polygon37"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4086.3464,3221.1 h -6.6929 v -6.2 h 6.6929 z"
+           id="path177" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4086.3464,3221.1 h -6.6929 v -6.2 h 6.6929 z"
+           id="path178" />
+      </g>
+      <g
+         id="circle38"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="M 4085.1654,3218 A 2.1654,2.1654 0 0 1 4083,3220.1654 2.1654,2.1654 0 0 1 4080.8346,3218 2.1654,2.1654 0 0 1 4083,3215.8346 2.1654,2.1654 0 0 1 4085.1654,3218 Z"
+           id="path179" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4085.1654,3218 c 0,1.1959 -0.9695,2.1654 -2.1654,2.1654 -1.1959,0 -2.1654,-0.9695 -2.1654,-2.1654 0,-1.1959 0.9695,-2.1654 2.1654,-2.1654 1.1959,0 2.1654,0.9695 2.1654,2.1654 z"
+           id="path180" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4073,3218"
+       layerid="11"
+       number="2"
+       net="ANT2"
+       plated="Y"
+       id="gge2395"
+       locked="0"
+       c_rotation="180"
+       c_width="6.6929"
+       c_height="6.6929"
+       title="ANT2"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse38"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="M 4076.3465,3218 A 3.3464501,3.3464501 0 0 1 4073,3221.3465 3.3464501,3.3464501 0 0 1 4069.6535,3218 3.3464501,3.3464501 0 0 1 4073,3214.6535 3.3464501,3.3464501 0 0 1 4076.3465,3218 Z"
+           id="path173" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4076.3465,3218 c 0,1.8482 -1.4983,3.3465 -3.3465,3.3465 -1.8482,0 -3.3465,-1.4983 -3.3465,-3.3465 0,-1.8482 1.4983,-3.3465 3.3465,-3.3465 1.8482,0 3.3465,1.4983 3.3465,3.3465 z"
+           id="path174" />
+      </g>
+      <g
+         id="circle39"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="M 4075.1654,3218 A 2.1654,2.1654 0 0 1 4073,3220.1654 2.1654,2.1654 0 0 1 4070.8346,3218 2.1654,2.1654 0 0 1 4073,3215.8346 2.1654,2.1654 0 0 1 4075.1654,3218 Z"
+           id="path175" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4075.1654,3218 c 0,1.1959 -0.9695,2.1654 -2.1654,2.1654 -1.1959,0 -2.1654,-0.9695 -2.1654,-2.1654 0,-1.1959 0.9695,-2.1654 2.1654,-2.1654 1.1959,0 2.1654,0.9695 2.1654,2.1654 z"
+           id="path176" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4340,3121"
+       layerid="11"
+       number="3"
+       net="OUT+"
+       plated="Y"
+       id="gge2464"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="6"
+       title="OUT+"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse39"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4343,3121 a 3,3 0 0 1 -3,3 3,3 0 0 1 -3,-3 3,3 0 0 1 3,-3 3,3 0 0 1 3,3 z"
+           id="path169" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4343,3121 c 0,1.6569 -1.3431,3 -3,3 -1.6569,0 -3,-1.3431 -3,-3 0,-1.6569 1.3431,-3 3,-3 1.6569,0 3,1.3431 3,3 z"
+           id="path170" />
+      </g>
+      <g
+         id="circle40"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4341.8,3121 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path171" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4341.8,3121 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path172" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4339.874,3131"
+       layerid="11"
+       number="2"
+       net="GND"
+       plated="Y"
+       id="gge2479"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="6"
+       title="GND"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse40"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4342.874,3131 a 3,3 0 0 1 -3,3 3,3 0 0 1 -3,-3 3,3 0 0 1 3,-3 3,3 0 0 1 3,3 z"
+           id="path165" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4342.874,3131 c 0,1.6569 -1.3431,3 -3,3 -1.6569,0 -3,-1.3431 -3,-3 0,-1.6569 1.3431,-3 3,-3 1.6569,0 3,1.3431 3,3 z"
+           id="path166" />
+      </g>
+      <g
+         id="circle41"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4341.674,3131 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path167" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4341.674,3131 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path168" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4339.874,3141"
+       layerid="11"
+       number="1"
+       net="+5V"
+       plated="Y"
+       id="gge2494"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="6"
+       title="+5V"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse41"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4342.874,3141 a 3,3 0 0 1 -3,3 3,3 0 0 1 -3,-3 3,3 0 0 1 3,-3 3,3 0 0 1 3,3 z"
+           id="path161" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4342.874,3141 c 0,1.6569 -1.3431,3 -3,3 -1.6569,0 -3,-1.3431 -3,-3 0,-1.6569 1.3431,-3 3,-3 1.6569,0 3,1.3431 3,3 z"
+           id="path162" />
+      </g>
+      <g
+         id="circle42"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4341.674,3141 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path163" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4341.674,3141 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path164" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4366.5,3162"
+       layerid="11"
+       number="1"
+       net="BAT+"
+       plated="Y"
+       id="gge2740"
+       locked="0"
+       c_rotation="270"
+       c_width="6.6929"
+       c_height="6.2"
+       title="BAT+"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polygon42"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4369.6,3158.6536 v 6.6929 h -6.2 v -6.6929 z"
+           id="path157" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4369.6,3158.6536 v 6.6929 h -6.2 v -6.6929 z"
+           id="path158" />
+      </g>
+      <g
+         id="circle43"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4368.6654,3162 a 2.1654,2.1654 0 0 1 -2.1654,2.1654 2.1654,2.1654 0 0 1 -2.1654,-2.1654 2.1654,2.1654 0 0 1 2.1654,-2.1654 2.1654,2.1654 0 0 1 2.1654,2.1654 z"
+           id="path159" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4368.6654,3162 c 0,1.1959 -0.9695,2.1654 -2.1654,2.1654 -1.1959,0 -2.1654,-0.9695 -2.1654,-2.1654 0,-1.1959 0.9695,-2.1654 2.1654,-2.1654 1.1959,0 2.1654,0.9695 2.1654,2.1654 z"
+           id="path160" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4366.5,3172"
+       layerid="11"
+       number="2"
+       net="BAT-"
+       plated="Y"
+       id="gge2755"
+       locked="0"
+       c_rotation="270"
+       c_width="6.6929"
+       c_height="6.6929"
+       title="BAT-"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse43"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4369.8465,3172 a 3.3464501,3.3464501 0 0 1 -3.3465,3.3465 3.3464501,3.3464501 0 0 1 -3.3465,-3.3465 3.3464501,3.3464501 0 0 1 3.3465,-3.3465 3.3464501,3.3464501 0 0 1 3.3465,3.3465 z"
+           id="path153" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4369.8465,3172 c 0,1.8482 -1.4983,3.3465 -3.3465,3.3465 -1.8482,0 -3.3465,-1.4983 -3.3465,-3.3465 0,-1.8482 1.4983,-3.3465 3.3465,-3.3465 1.8482,0 3.3465,1.4983 3.3465,3.3465 z"
+           id="path154" />
+      </g>
+      <g
+         id="circle44"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4368.6654,3172 a 2.1654,2.1654 0 0 1 -2.1654,2.1654 2.1654,2.1654 0 0 1 -2.1654,-2.1654 2.1654,2.1654 0 0 1 2.1654,-2.1654 2.1654,2.1654 0 0 1 2.1654,2.1654 z"
+           id="path155" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4368.6654,3172 c 0,1.1959 -0.9695,2.1654 -2.1654,2.1654 -1.1959,0 -2.1654,-0.9695 -2.1654,-2.1654 0,-1.1959 0.9695,-2.1654 2.1654,-2.1654 1.1959,0 2.1654,0.9695 2.1654,2.1654 z"
+           id="path156" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4160.9996,3095"
+       layerid="11"
+       number="1"
+       net="LED2_1"
+       plated="Y"
+       id="gge2827"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="6"
+       title="LED2_1"
+       c_shape="ELLIPSE"
+       pasteexpansion="0.0000"
+       solderexpansion="0.2000"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse44"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4163.9995,3095 a 3,3 0 0 1 -3,3 3,3 0 0 1 -3,-3 3,3 0 0 1 3,-3 3,3 0 0 1 3,3 z"
+           id="path149" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4163.9995,3095 c 0,1.6569 -1.3431,3 -3,3 -1.6569,0 -3,-1.3431 -3,-3 0,-1.6569 1.3431,-3 3,-3 1.6569,0 3,1.3431 3,3 z"
+           id="path150" />
+      </g>
+      <g
+         id="circle45"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4162.8,3095 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path151" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4162.8,3095 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path152" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4160.9996,3085"
+       layerid="11"
+       number="2"
+       net="GND"
+       plated="Y"
+       id="gge2842"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="6"
+       title="GND"
+       c_shape="ELLIPSE"
+       pasteexpansion="0.0000"
+       solderexpansion="0.2000"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse45"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4163.9995,3085 a 3,3 0 0 1 -3,3 3,3 0 0 1 -3,-3 3,3 0 0 1 3,-3 3,3 0 0 1 3,3 z"
+           id="path145" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4163.9995,3085 c 0,1.6569 -1.3431,3 -3,3 -1.6569,0 -3,-1.3431 -3,-3 0,-1.6569 1.3431,-3 3,-3 1.6569,0 3,1.3431 3,3 z"
+           id="path146" />
+      </g>
+      <g
+         id="circle46"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4162.8,3085 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path147" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4162.8,3085 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path148" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4134.5,3094"
+       layerid="11"
+       number="1"
+       net="RF_LED"
+       plated="Y"
+       id="gge2911"
+       locked="0"
+       c_rotation="90"
+       c_width="7.4"
+       c_height="7.4"
+       title="RF_LED"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse46"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4138.2,3094 a 3.7,3.7 0 0 1 -3.7,3.7 3.7,3.7 0 0 1 -3.7,-3.7 3.7,3.7 0 0 1 3.7,-3.7 3.7,3.7 0 0 1 3.7,3.7 z"
+           id="path141" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4138.2,3094 c 0,2.0435 -1.6565,3.7 -3.7,3.7 -2.0435,0 -3.7,-1.6565 -3.7,-3.7 0,-2.0435 1.6565,-3.7 3.7,-3.7 2.0435,0 3.7,1.6565 3.7,3.7 z"
+           id="path142" />
+      </g>
+      <g
+         id="circle47"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4136.27,3094 a 1.77,1.77 0 0 1 -1.77,1.77 1.77,1.77 0 0 1 -1.77,-1.77 1.77,1.77 0 0 1 1.77,-1.77 1.77,1.77 0 0 1 1.77,1.77 z"
+           id="path143" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4136.27,3094 c 0,0.9775 -0.7925,1.77 -1.77,1.77 -0.9775,0 -1.77,-0.7925 -1.77,-1.77 0,-0.9775 0.7925,-1.77 1.77,-1.77 0.9775,0 1.77,0.7925 1.77,1.77 z"
+           id="path144" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4134.5,3054"
+       layerid="11"
+       number="2"
+       net="LED2_1"
+       plated="Y"
+       id="gge2926"
+       locked="0"
+       c_rotation="90"
+       c_width="7.4"
+       c_height="7.4"
+       title="LED2_1"
+       c_shape="ELLIPSE"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="ellipse47"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4138.2,3054 a 3.7,3.7 0 0 1 -3.7,3.7 3.7,3.7 0 0 1 -3.7,-3.7 3.7,3.7 0 0 1 3.7,-3.7 3.7,3.7 0 0 1 3.7,3.7 z"
+           id="path137" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4138.2,3054 c 0,2.0435 -1.6565,3.7 -3.7,3.7 -2.0435,0 -3.7,-1.6565 -3.7,-3.7 0,-2.0435 1.6565,-3.7 3.7,-3.7 2.0435,0 3.7,1.6565 3.7,3.7 z"
+           id="path138" />
+      </g>
+      <g
+         id="circle48"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4136.27,3054 a 1.77,1.77 0 0 1 -1.77,1.77 1.77,1.77 0 0 1 -1.77,-1.77 1.77,1.77 0 0 1 1.77,-1.77 1.77,1.77 0 0 1 1.77,1.77 z"
+           id="path139" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4136.27,3054 c 0,0.9775 -0.7925,1.77 -1.77,1.77 -0.9775,0 -1.77,-0.7925 -1.77,-1.77 0,-0.9775 0.7925,-1.77 1.77,-1.77 0.9775,0 1.77,0.7925 1.77,1.77 z"
+           id="path140" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4054.5,3063"
+       layerid="11"
+       number="1"
+       net="RX"
+       plated="Y"
+       id="gge768"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="RX"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline48"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4052.5315,3063 h 3.937"
+           id="path133" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4052.5313,3060 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path134" />
+      </g>
+      <g
+         id="circle49"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4056.3,3063 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path135" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4056.3,3063 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path136" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4054.5,3073"
+       layerid="11"
+       number="2"
+       net="TX"
+       plated="Y"
+       id="gge783"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="TX"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline49"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4052.5315,3073 h 3.937"
+           id="path129" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4052.5313,3070 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path130" />
+      </g>
+      <g
+         id="circle50"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4056.3,3073 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path131" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4056.3,3073 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path132" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4054.5,3083"
+       layerid="11"
+       number="3"
+       net="U2_3"
+       plated="Y"
+       id="gge798"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="U2_3"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline50"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4052.5315,3083 h 3.937"
+           id="path125" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4052.5313,3080 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path126" />
+      </g>
+      <g
+         id="circle51"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4056.3,3083 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path127" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4056.3,3083 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path128" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4054.5,3093"
+       layerid="11"
+       number="4"
+       net="U2_4"
+       plated="Y"
+       id="gge813"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="U2_4"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline51"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4052.5315,3093 h 3.937"
+           id="path121" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4052.5313,3090 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path122" />
+      </g>
+      <g
+         id="circle52"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4056.3,3093 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path123" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4056.3,3093 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path124" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4054.5,3103"
+       layerid="11"
+       number="5"
+       net="U2_5"
+       plated="Y"
+       id="gge828"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="U2_5"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline52"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4052.5315,3103 h 3.937"
+           id="path117" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4052.5313,3100 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path118" />
+      </g>
+      <g
+         id="circle53"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4056.3,3103 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path119" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4056.3,3103 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path120" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4114.5,3063"
+       layerid="11"
+       number="6"
+       net="RF_LED"
+       plated="Y"
+       id="gge843"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="RF_LED"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline53"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4112.5315,3063 h 3.937"
+           id="path113" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4112.5312,3060 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path114" />
+      </g>
+      <g
+         id="circle54"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4116.3,3063 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path115" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4116.3,3063 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path116" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4114.5,3073"
+       layerid="11"
+       number="7"
+       net="+5V"
+       plated="Y"
+       id="gge858"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="+5V"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline54"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4112.5315,3073 h 3.937"
+           id="path109" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4112.5312,3070 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path110" />
+      </g>
+      <g
+         id="circle55"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4116.3,3073 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path111" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4116.3,3073 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path112" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4114.5,3083"
+       layerid="11"
+       number="8"
+       net="GND"
+       plated="Y"
+       id="gge873"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="GND"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline55"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4112.5315,3083 h 3.937"
+           id="path105" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4112.5312,3080 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path106" />
+      </g>
+      <g
+         id="circle56"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4116.3,3083 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path107" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4116.3,3083 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path108" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4114.5,3183"
+       layerid="11"
+       number="9"
+       net="ANT2"
+       plated="Y"
+       id="gge888"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="ANT2"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline56"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4112.5315,3183 h 3.937"
+           id="path101" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4112.5312,3180 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path102" />
+      </g>
+      <g
+         id="circle57"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4116.3,3183 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path103" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4116.3,3183 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path104" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4114.5,3193"
+       layerid="11"
+       number="10"
+       net="ANT1"
+       plated="Y"
+       id="gge903"
+       locked="0"
+       c_rotation="90"
+       c_width="6"
+       c_height="9.937"
+       title="ANT1"
+       c_shape="OVAL"
+       pasteexpansion="0"
+       solderexpansion="0.2"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polyline57"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4112.5315,3193 h 3.937"
+           id="path97" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4112.5312,3190 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 h 3.9375 a 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+           id="path98" />
+      </g>
+      <g
+         id="circle58"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4116.3,3193 a 1.8,1.8 0 0 1 -1.8,1.8 1.8,1.8 0 0 1 -1.8,-1.8 1.8,1.8 0 0 1 1.8,-1.8 1.8,1.8 0 0 1 1.8,1.8 z"
+           id="path99" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4116.3,3193 c 0,0.9941 -0.8059,1.8 -1.8,1.8 -0.9941,0 -1.8,-0.8059 -1.8,-1.8 0,-0.9941 0.8059,-1.8 1.8,-1.8 0.9941,0 1.8,0.8059 1.8,1.8 z"
+           id="path100" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4293.559,3221.701"
+       layerid="11"
+       number="1"
+       net="U6_1"
+       plated="Y"
+       id="gge2569"
+       locked="1"
+       c_rotation="270"
+       c_width="9.4488"
+       c_height="9.4488"
+       title="U6_1"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.4"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polygon58"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4298.2835,3226.4252 v -9.4488 h -9.4488 v 9.4488 z"
+           id="path93" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4298.2835,3226.4252 v -9.4488 h -9.4488 v 9.4488 z"
+           id="path94" />
+      </g>
+      <g
+         id="circle59"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4295.1339,3221.7009 a 1.5748,1.5748 0 0 1 -1.5748,1.5748 1.5748,1.5748 0 0 1 -1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,1.5748 z"
+           id="path95" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4295.1339,3221.7009 c 0,0.8697 -0.7051,1.5748 -1.5748,1.5748 -0.8697,0 -1.5748,-0.7051 -1.5748,-1.5748 0,-0.8697 0.7051,-1.5748 1.5748,-1.5748 0.8697,0 1.5748,0.7051 1.5748,1.5748 z"
+           id="path96" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4293.634,3132.331"
+       layerid="11"
+       number="5"
+       net="OUT+"
+       plated="Y"
+       id="gge2584"
+       locked="1"
+       c_rotation="270"
+       c_width="9.4488"
+       c_height="9.4488"
+       title="OUT+"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.4"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polygon59"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4298.3583,3137.0551 v -9.4488 h -9.4488 v 9.4488 z"
+           id="path89" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4298.3583,3137.0551 v -9.4488 h -9.4488 v 9.4488 z"
+           id="path90" />
+      </g>
+      <g
+         id="circle60"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4295.2086,3132.3311 a 1.5748,1.5748 0 0 1 -1.5748,1.5748 1.5748,1.5748 0 0 1 -1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,1.5748 z"
+           id="path91" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4295.2086,3132.3311 c 0,0.8697 -0.7051,1.5748 -1.5748,1.5748 -0.8697,0 -1.5748,-0.7051 -1.5748,-1.5748 0,-0.8697 0.7051,-1.5748 1.5748,-1.5748 0.8697,0 1.5748,0.7051 1.5748,1.5748 z"
+           id="path92" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4239.303,3221.701"
+       layerid="11"
+       number="2"
+       net="U6_2"
+       plated="Y"
+       id="gge2599"
+       locked="1"
+       c_rotation="270"
+       c_width="9.4488"
+       c_height="9.4488"
+       title="U6_2"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.4"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polygon60"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4244.0275,3226.4252 v -9.4488 h -9.4488 v 9.4488 z"
+           id="path85" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4244.0275,3226.4252 v -9.4488 h -9.4488 v 9.4488 z"
+           id="path86" />
+      </g>
+      <g
+         id="circle61"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4240.878,3221.7009 a 1.5748,1.5748 0 0 1 -1.5748,1.5748 1.5748,1.5748 0 0 1 -1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,1.5748 z"
+           id="path87" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4240.878,3221.7009 c 0,0.8697 -0.7051,1.5748 -1.5748,1.5748 -0.8697,0 -1.5748,-0.7051 -1.5748,-1.5748 0,-0.8697 0.7051,-1.5748 1.5748,-1.5748 0.8697,0 1.5748,0.7051 1.5748,1.5748 z"
+           id="path88" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4239.378,3132.331"
+       layerid="11"
+       number="6"
+       net="GND"
+       plated="Y"
+       id="gge2614"
+       locked="1"
+       c_rotation="270"
+       c_width="9.4488"
+       c_height="9.4488"
+       title="GND"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.4"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polygon61"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4244.1023,3137.0552 v -9.4488 h -9.4488 v 9.4488 z"
+           id="path81" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4244.1023,3137.0552 v -9.4488 h -9.4488 v 9.4488 z"
+           id="path82" />
+      </g>
+      <g
+         id="circle62"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4240.9527,3132.3311 a 1.5748,1.5748 0 0 1 -1.5748,1.5748 1.5748,1.5748 0 0 1 -1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,1.5748 z"
+           id="path83" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4240.9527,3132.3311 c 0,0.8697 -0.7051,1.5748 -1.5748,1.5748 -0.8697,0 -1.5748,-0.7051 -1.5748,-1.5748 0,-0.8697 0.7051,-1.5748 1.5748,-1.5748 0.8697,0 1.5748,0.7051 1.5748,1.5748 z"
+           id="path84" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4251.973,3132.331"
+       layerid="11"
+       number="4"
+       net="BAT-"
+       plated="Y"
+       id="gge2629"
+       locked="1"
+       c_rotation="270"
+       c_width="9.4488"
+       c_height="9.4488"
+       title="BAT-"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.4"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polygon62"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4256.6971,3137.0554 v -9.4488 h -9.4488 v 9.4488 z"
+           id="path77" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4256.6971,3137.0554 v -9.4488 h -9.4488 v 9.4488 z"
+           id="path78" />
+      </g>
+      <g
+         id="circle63"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4253.5479,3132.3311 a 1.5748,1.5748 0 0 1 -1.5748,1.5748 1.5748,1.5748 0 0 1 -1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,1.5748 z"
+           id="path79" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4253.5479,3132.3311 c 0,0.8697 -0.7051,1.5748 -1.5748,1.5748 -0.8697,0 -1.5748,-0.7051 -1.5748,-1.5748 0,-0.8697 0.7051,-1.5748 1.5748,-1.5748 0.8697,0 1.5748,0.7051 1.5748,1.5748 z"
+           id="path80" />
+      </g>
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4280.716,3132.331"
+       layerid="11"
+       number="3"
+       net="BAT+"
+       plated="Y"
+       id="gge2644"
+       locked="1"
+       c_rotation="270"
+       c_width="9.4488"
+       c_height="9.4488"
+       title="BAT+"
+       c_shape="RECT"
+       pasteexpansion="0"
+       solderexpansion="0.4"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="polygon63"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4285.4409,3137.0551 v -9.4488 h -9.4488 v 9.4488 z"
+           id="path73" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4285.4409,3137.0551 v -9.4488 h -9.4488 v 9.4488 z"
+           id="path74" />
+      </g>
+      <g
+         id="circle64"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4282.2906,3132.3311 a 1.5748,1.5748 0 0 1 -1.5748,1.5748 1.5748,1.5748 0 0 1 -1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,-1.5748 1.5748,1.5748 0 0 1 1.5748,1.5748 z"
+           id="path75" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4282.2906,3132.3311 c 0,0.8697 -0.7051,1.5748 -1.5748,1.5748 -0.8697,0 -1.5748,-0.7051 -1.5748,-1.5748 0,-0.8697 0.7051,-1.5748 1.5748,-1.5748 0.8697,0 1.5748,0.7051 1.5748,1.5748 z"
+           id="path76" />
+      </g>
+    </g>
+    <g
+       c_partid="part_hole"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4380,3217.5"
+       layerid="11"
+       id="gge3076"
+       locked="0"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="circle65"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;fill-opacity:0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4384,3217.5 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z"
+           id="path71" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4380,3213 c -2.4794,0 -4.5,2.0206 -4.5,4.5 0,2.4794 2.0206,4.5 4.5,4.5 2.4794,0 4.5,-2.0206 4.5,-4.5 0,-2.4794 -2.0206,-4.5 -4.5,-4.5 z m 0,1 c 1.9389,0 3.5,1.5611 3.5,3.5 0,1.9389 -1.5611,3.5 -3.5,3.5 -1.9389,0 -3.5,-1.5611 -3.5,-3.5 0,-1.9389 1.5611,-3.5 3.5,-3.5 z"
+           id="path72" />
+      </g>
+    </g>
+    <g
+       c_partid="part_hole"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4053,3217.5"
+       layerid="11"
+       id="gge14497"
+       locked="0"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.1669,-770.92574)">
+      <g
+         id="circle66"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;fill-opacity:0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4057,3217.5 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z"
+           id="path69" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4053,3213 c -2.4794,0 -4.5,2.0206 -4.5,4.5 0,2.4794 2.0206,4.5 4.5,4.5 2.4794,0 4.5,-2.0206 4.5,-4.5 0,-2.4794 -2.0206,-4.5 -4.5,-4.5 z m 0,1 c 1.9389,0 3.5,1.5611 3.5,3.5 0,1.9389 -1.5611,3.5 -3.5,3.5 -1.9389,0 -3.5,-1.5611 -3.5,-3.5 0,-1.9389 1.5611,-3.5 3.5,-3.5 z"
+           id="path70" />
+      </g>
+    </g>
+    <g
+       c_partid="part_hole"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4382.5,3053"
+       layerid="11"
+       id="gge14512"
+       locked="0"
+       style="fill:none;stroke:#000000"
+       transform="matrix(0.254,0,0,0.254,-1021.3098,-771.64006)">
+      <g
+         id="circle67"
+         style="fill:none">
+        <path
+           style="color:#000000;fill:none;fill-opacity:0;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4386.5,3053 a 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 4,4 0 0 1 4,4 z"
+           id="path67" />
+        <path
+           style="color:#000000;fill:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+           d="m 4382.5,3048.5 c -2.4794,0 -4.5,2.0206 -4.5,4.5 0,2.4794 2.0206,4.5 4.5,4.5 2.4794,0 4.5,-2.0206 4.5,-4.5 0,-2.4794 -2.0206,-4.5 -4.5,-4.5 z m 0,1 c 1.9389,0 3.5,1.5611 3.5,3.5 0,1.9389 -1.5611,3.5 -3.5,3.5 -1.9389,0 -3.5,-1.5611 -3.5,-3.5 0,-1.9389 1.5611,-3.5 3.5,-3.5 z"
+           id="path68" />
+      </g>
+    </g>
+    <path
+       style="color:#000000;fill:none;stroke-width:0.254;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+       d="m 6.123135,1.4084312 a 0.12749531,0.12749531 0 0 0 -0.13048,0.124536 l -0.0155,0.635 a 0.12750806,0.12750806 0 0 0 0,0.003 V 48.170266 a 0.12750806,0.12750806 0 0 0 0.12751,0.127508 h 87.64549 a 0.12750806,0.12750806 0 0 0 0.12751,-0.127508 V 1.5359392 a 0.12750806,0.12750806 0 0 0 -0.12751,-0.127508 h -86.741 -0.762 a 0.12749531,0.12749531 0 0 0 -0.0576,0.02388 0.12749531,0.12749531 0 0 0 -0.0665,-0.02388 z m 0.12154,0.254 a 0.12749531,0.12749531 0 0 0 0.003,0 h 0.762 86.61349 V 48.041739 H 6.232335 V 2.1714222 Z"
+       id="gge1239-0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:3.96875px;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-46.017914"
+       y="46.00235"
+       id="text1"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:3.96875px;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';stroke-width:0.264583px"
+         x="-46.017914"
+         y="46.00235">TA</tspan></text>
+  </g>
+</svg>
